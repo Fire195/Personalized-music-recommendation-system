@@ -1,0 +1,149 @@
+---------LGBM_result_records---------
+learning_rate: 0.01
+num_leaves: 256
+max_bin: 230
+num_iterations: 100
+feature_fraction: 1
+The acu of prediction is: 0.7046106060606061
+learning time: 0:00:39.119096
+
+---------LGBM_result_records---------
+learning_rate: 0.05
+num_leaves: 256
+max_bin: 230
+num_iterations: 100
+feature_fraction: 1
+The acu of prediction is: 0.7243272727272728
+learning time: 0:04:02.208171
+
+---------LGBM_result_records---------
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 100
+feature_fraction: 1
+The acu of prediction is: 0.7315611111111111
+learning time: 0:03:43.970688
+
+---------LGBM_result_records---------
+learning_rate: 0.2
+num_leaves: 256
+max_bin: 230
+num_iterations: 100
+feature_fraction: 1
+The acu of prediction is: 0.7344772727272728
+learning time: 0:03:41.151084
+
+---------LGBM_result_records---------
+learning_rate: 0.3
+num_leaves: 256
+max_bin: 230
+num_iterations: 100
+feature_fraction: 1
+The acu of prediction is: 0.7349772727272728
+learning time: 0:03:36.225417
+
+---------LGBM_result_records---------
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 100
+feature_fraction: 1
+The acu of prediction is: 0.7347611111111111
+learning time: 0:04:12.258055
+
+---------LGBM_result_records---------
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 80
+feature_fraction: 1
+The acu of prediction is: 0.7316590909090909
+learning time: 0:03:30.557285
+
+---------LGBM_result_records---------
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 1
+The acu of prediction is: 0.7376323232323232
+learning time: 0:05:35.752030
+
+---------LGBM_result_records---------
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.9
+The acu of prediction is: 0.7313232323232323
+learning time: 0:05:46.173469
+
+---------LGBM_result_records---------
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.8
+The acu of prediction is: 0.7302262626262626
+learning time: 0:05:54.175925
+
+---------LGBM_result_records---------
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.7
+The acu of prediction is: 0.7288888888888889
+learning time: 0:05:32.358735
+
+---------LGBM_result_records---------
+datasize: 0.5 million
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.8
+The acu of prediction is: 0.0.8198318181818182
+learning time: 0:00:45.996707
+
+---------LGBM_result_records---------
+datasize: 1.0 million
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.8
+The acu of prediction is: 0.7953166666666667
+learning time: 0:02:43.482236
+
+---------LGBM_result_records---------
+datasize: 2.0 million
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.8
+The acu of prediction is: 0.7635454545454545
+learning time: 0:03:44.064684
+
+---------LGBM_result_records---------
+datasize: 3.0 million
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.8
+The acu of prediction is: 0.7462454545454545
+learning time: 0:05:04.007319
+
+---------LGBM_result_records---------
+datasize: 4.0 million
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.8
+The acu of prediction is: 0.7401262626262626
+learning time: 0:05:20.750344
+

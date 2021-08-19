@@ -1,0 +1,10 @@
+---------LGBM_result_records---------
+datasize: 4.0 million
+learning_rate: 0.1
+num_leaves: 256
+max_bin: 230
+num_iterations: 150
+feature_fraction: 0.8
+The acu of prediction is: 0.831590909090909
+learning time: 0:00:17.342351
+

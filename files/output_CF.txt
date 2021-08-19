@@ -1,0 +1,13 @@
+current data scale: 500k
+8933 74755
+accuracy_score: 0.38812011034233257
+using time: 107.39178013801575
+cuttent similarity algorithm is euclidean
+
+current data scale: 500k
+users_count is 8933, songs_count is 74755
+
+accuracy_score: 0.3857420331097409
+using time: 104.00737118721008
+cuttent similarity algorithm is euclidean
+
